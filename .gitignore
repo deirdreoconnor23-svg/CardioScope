@@ -1,0 +1,19 @@
+# Large data files
+*.csv
+
+# Model files (too large)
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Course materials (not my work)
+3a. Evaluating Machine Learning Models*.ipynb
+HeartDisease_Test*.ipynb
+HeartDisease.ipynb
+datasets/
