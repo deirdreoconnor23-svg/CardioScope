@@ -7,6 +7,10 @@ A machine learning cardiovascular disease screening tool built as a capstone pro
 
 CardioScope uses machine learning to predict cardiovascular disease risk based on health and lifestyle factors. The model was trained on a CDC dataset of 419,656 records.
 
+## Demo
+
+▶️ [Watch the demo video](https://youtu.be/0-79V6VQBJo)
+
 ## Key Results
 
 - **Model:** Random Forest with SMOTE and cost-sensitive learning
