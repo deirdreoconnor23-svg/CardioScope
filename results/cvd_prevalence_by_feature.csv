@@ -1,0 +1,28 @@
+Feature,Label,Prevalence,Type,Detail,N,Rank
+HadAngina,HadAngina: Yes,100.0,Categorical,Yes,25503,1
+HadStroke,HadStroke: Yes,100.0,Categorical,Yes,17991,2
+HadHeartAttack,HadHeartAttack: Yes,100.0,Categorical,Yes,23250,3
+GeneralHealth,GeneralHealth: Poor,38.87732749178532,Categorical,Poor,18260,4
+HadKidneyDisease,HadKidneyDisease: Yes,34.40008339414156,Categorical,Yes,19186,5
+DifficultyDressingBathing,DifficultyDressingBathing: Yes,32.13278646500897,Categorical,Yes,15604,6
+HadCOPD,HadCOPD: Yes,31.39593984512811,Categorical,Yes,33447,7
+DifficultyWalking,DifficultyWalking: Yes,29.060296715493926,Categorical,Yes,63967,8
+AgeCategory,AgeCategory: Age 80 or older,28.716126948709668,Categorical,Age 80 or older,34061,9
+DifficultyErrands,DifficultyErrands: Yes,27.674839558992925,Categorical,Yes,30385,10
+HadDiabetes,HadDiabetes: Yes,26.685184865685546,Categorical,Yes,57961,11
+HadArthritis,HadArthritis: Yes,19.816902980908786,Categorical,Yes,143312,12
+PhysicalHealthDays,High PhysicalHealthDays,18.968331148788632,Numeric,Top 25% (≥3.0),118255,13
+DifficultyConcentrating,DifficultyConcentrating: Yes,18.722814095694385,Categorical,Yes,47589,14
+PhysicalActivities,PhysicalActivities: No,17.936047939486222,Categorical,No,101795,15
+SmokerStatus,SmokerStatus: Former smoker,16.574854925186457,Categorical,Former smoker,108737,16
+AlcoholDrinkers,AlcoholDrinkers: No,14.986290462759962,Categorical,No,178343,17
+HadAsthma,HadAsthma: Yes,14.895448569460964,Categorical,Yes,63892,18
+HadDepressiveDisorder,HadDepressiveDisorder: Yes,14.370143497249163,Categorical,Yes,88155,19
+Sex,Sex: Male,13.559830406799996,Categorical,Male,196706,20
+BMI,High BMI,13.496758317164357,Numeric,Top 25% (≥31.5),105655,21
+WeightInKilograms,High WeightInKilograms,13.462138917011233,Numeric,Top 25% (≥93.0),105689,22
+LastCheckupTime,LastCheckupTime: Within past year (anytime less than 12 months ago),13.322710534670975,Categorical,Within past year (anytime less than 12 months ago),337011,23
+SleepHours,High SleepHours,13.175551470588234,Numeric,Top 25% (≥8.0),152320,24
+RaceEthnicityCategory,RaceEthnicityCategory: Unknown,13.083128726762538,Categorical,Unknown,11404,25
+HeightInMeters,High HeightInMeters,12.202967815246817,Numeric,Top 25% (≥1.8),119684,26
+MentalHealthDays,High MentalHealthDays,12.179943269677738,Numeric,Top 25% (≥5.0),105411,27

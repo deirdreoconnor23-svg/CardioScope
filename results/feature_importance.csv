@@ -1,0 +1,50 @@
+Feature,Importance
+HadArthritis_Yes,0.15497200738461267
+DifficultyWalking_Yes,0.10790763066936583
+AgeCategory_Age 80 or older,0.0957584623175286
+HadDiabetes_Yes,0.08937444980012171
+LastCheckupTime_Within past year (anytime less than 12 months ago),0.058778603221713174
+HadCOPD_Yes,0.05675790179613375
+GeneralHealth_Fair,0.0531505176352871
+AgeCategory_Age 75 to 79,0.050153145160958486
+AgeCategory_Age 70 to 74,0.04370313098769623
+"RaceEthnicityCategory_White only, Non-Hispanic",0.03829941199526991
+Sex_Male,0.027363986000694687
+GeneralHealth_Poor,0.025209318780935252
+GeneralHealth_Good,0.02394442806505453
+SmokerStatus_Former smoker,0.02305791962817827
+HadKidneyDisease_Yes,0.01989930613275477
+AgeCategory_Age 65 to 69,0.019656570533203466
+DifficultyErrands_Yes,0.01793549803230622
+SmokerStatus_Never smoked,0.010935566280568673
+GeneralHealth_Very good,0.009400054803438586
+AgeCategory_Age 60 to 64,0.008169404412930107
+PhysicalActivities_Yes,0.007037277157774416
+MentalHealthDays,0.006789550225865229
+HeightInMeters,0.005751581154210484
+SleepHours,0.005443070547431875
+DifficultyDressingBathing_Yes,0.005357323695823631
+PhysicalHealthDays,0.004631275978493757
+LastCheckupTime_Within past 2 years (1 year but less than 2 years ago),0.004370223530144113
+AgeCategory_Age 55 to 59,0.0028304013511301017
+DifficultyConcentrating_Yes,0.00239019489092471
+WeightInKilograms,0.002363964956257
+BMI,0.00206141481197036
+AlcoholDrinkers_Yes,0.0020545344358234383
+RaceEthnicityCategory_Hispanic,0.0018128533765626443
+HadAsthma_Yes,0.0017083345769754133
+HadDepressiveDisorder_Yes,0.0013592349278573367
+AgeCategory_Age 30 to 34,0.0013506085932571716
+AgeCategory_Age 50 to 54,0.0012710120021428258
+LastCheckupTime_Within past 5 years (2 years but less than 5 years ago),0.001163823790405043
+AgeCategory_Age 35 to 39,0.0010373625683771299
+"RaceEthnicityCategory_Other race only, Non-Hispanic",0.001025208492431701
+SmokerStatus_Unknown,0.0008456893077203309
+AgeCategory_Age 25 to 29,0.000653011924738515
+AgeCategory_Age 40 to 44,0.0005330363253670372
+AgeCategory_Age 45 to 49,0.0005258429468564982
+RaceEthnicityCategory_Unknown,0.00045460819382228977
+SmokerStatus_Current smoker - now smokes some days,0.00027576860639990123
+"RaceEthnicityCategory_Multiracial, Non-Hispanic",0.00024190546352020334
+"HadDiabetes_No, pre-diabetes or borderline diabetes",0.00020998585419408896
+"HadDiabetes_Yes, but only during pregnancy (female)",2.358667477071592e-05

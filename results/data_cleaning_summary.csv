@@ -1,0 +1,10 @@
+Metric,Value
+Original Rows,"445,132"
+Final Rows,"427,829"
+Rows Removed,"17,303"
+Retention Rate,96.1%
+Null Values,0
+Duplicates,0
+Numeric Features,7
+Categorical Features,22
+Total Features,29

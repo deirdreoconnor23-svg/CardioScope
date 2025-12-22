@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Data files (too large for GitHub)
+data/*.csv
+data/*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Model files - uncomment if too large (>100MB)
+# models/*.pkl
+# models/*.joblib
+
+# IDE
+.vscode/
+.idea/
