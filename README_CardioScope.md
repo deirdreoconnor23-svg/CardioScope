@@ -338,7 +338,7 @@ Returning tech professional with 10+ years in IT support (Dell International) an
 **Connect:**
 - LinkedIn: [Your LinkedIn URL]
 - GitHub: [@deirdreoconnor23-svg](https://github.com/deirdreoconnor23-svg)
-- Email: [Your Email]
+- Email: [Deirdre O'Connor](deirdreoconnor@gmail.com)
 
 ---
 
