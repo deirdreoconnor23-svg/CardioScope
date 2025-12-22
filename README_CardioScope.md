@@ -336,9 +336,9 @@ Returning tech professional with 10+ years in IT support (Dell International) an
 - Transitioning back to technology with focus on ML/AI
 
 **Connect:**
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [Deirdre O'Connor](https://www.linkedin.com/in/deirdre-oconnor-327197330)
 - GitHub: [@deirdreoconnor23-svg](https://github.com/deirdreoconnor23-svg)
-- Email: [Deirdre O'Connor](deirdreoconnor@gmail.com)
+- Email: [Deirdre O'Connor](mailto:deirdreoconnor23@gmail.com)
 
 ---
 
@@ -375,8 +375,8 @@ This tool:
 
 **Questions or feedback?** 
 - Open an issue on GitHub
-- Connect with me on LinkedIn
-- Email: [Your Email]
+- Connect with me on LinkedIn [Deirdre O'Connor](https://www.linkedin.com/in/deirdre-oconnor-327197330)
+- Email: [Deirdre O'Connor](mailto:deirdreoconnor23@gmail.com)
 
 **Interested in collaboration?**
 I'm open to opportunities in ML/AI, data science, and related fields!
