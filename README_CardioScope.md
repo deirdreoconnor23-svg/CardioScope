@@ -1,4 +1,3 @@
-# CardioScope 🫀
 
 ![CardioScope Logo](images/Title__250_x_70_px_.png)
 
@@ -12,15 +11,15 @@
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 CardioScope is a machine learning-powered screening tool that predicts cardiovascular disease (CVD) risk based on patient health indicators. Built on 419,656 CDC patient records, the model achieves **88.2% recall** - exceeding the 85% threshold typically required for medical screening tools.
 
-### 🎯 The Problem
+### The Problem
 
 Cardiovascular disease is the leading cause of death globally. Early screening and intervention are critical, but traditional risk assessment methods often miss at-risk patients. This project demonstrates how machine learning can improve screening sensitivity while maintaining practical utility.
 
-### 💡 Key Achievement
+### Key Achievement
 
 Through iterative optimization, I improved the model from **53.4% recall** (too conservative, missing 47% of CVD cases) to **88.2% recall** by:
 - Identifying underprediction through systematic testing
@@ -32,11 +31,11 @@ This demonstrates complete problem-solving in medical ML: building, testing, dia
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 **Try the app:** [Launch Instructions](#-installation--usage)
 
-![App Screenshot - Coming Soon](images/app_screenshot.png)
+
 
 ---
 
@@ -71,7 +70,7 @@ This demonstrates complete problem-solving in medical ML: building, testing, dia
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Machine Learning
 - **Python 3.8+** - Primary programming language
@@ -118,7 +117,7 @@ After one-hot encoding: **49 features**
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 - Handled missing values and outliers
@@ -154,7 +153,7 @@ In medical screening:
 
 ---
 
-## 🎨 Application Features
+## Application Features
 
 ### Modern, Professional UI
 - Custom brand identity with logo and color scheme
@@ -182,7 +181,7 @@ In medical screening:
 
 ---
 
-## 💻 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -241,7 +240,7 @@ CardioScope/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Interface
 *Clean, intuitive form for health data input*
@@ -260,7 +259,7 @@ CardioScope/
 
 ---
 
-## 🔬 Model Training
+## Model Training
 
 To retrain the models from scratch:
 
@@ -277,7 +276,7 @@ To retrain the models from scratch:
 
 ---
 
-## 📚 Key Learnings & Insights
+## Key Learnings & Insights
 
 ### Technical Lessons
 1. **Accuracy isn't everything:** In imbalanced datasets with asymmetric costs, recall often matters more
