@@ -74,7 +74,7 @@ This demonstrates complete problem-solving in medical ML: building, testing, dia
 
 ### Machine Learning
 - **Python 3.8+** - Primary programming language
-- **scikit-learn** - Model training, preprocessing, evaluation
+- **scikit-learn** - Model Training (Logistic Regression, Random Forest), preprocessing, evaluation
 - **XGBoost** - Gradient boosting implementation (comparison model)
 - **Pandas & NumPy** - Data manipulation and numerical computing
 - **imbalanced-learn (SMOTE)** - Class imbalance handling
