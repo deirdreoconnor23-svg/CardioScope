@@ -31,11 +31,9 @@ This demonstrates complete problem-solving in medical ML: building, testing, dia
 
 ---
 
-## Live Demo
+## Demo
 
-**Try the app:** [Launch Instructions](#-installation--usage)
-
-
+▶️ [Watch the demo video](https://youtu.be/d5V3JSzUH5o)
 
 ---
 
