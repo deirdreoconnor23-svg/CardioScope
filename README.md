@@ -326,7 +326,7 @@ To retrain the models from scratch:
 
 **Deirdre O'Connor**
 
-Returning tech professional with 10+ years in IT support (Dell International) and creative production management (Lumen Street Theatre). Currently upskilling in AI/ML through the Women in Tech Returner Programme.
+Returning tech professional with 10+ years in IT support (Dell International) and creative production management (Lumen Street Theatre). Recently Upskilled in AI/ML through the Women in Tech Returner Programme.
 
 **Background:**
 - International IT support experience (Oslo, Malaysia, Moscow)
